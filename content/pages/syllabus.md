@@ -12,7 +12,7 @@ Lectures: 2 sessions / week, 1.5 hours / session
 Overview
 --------
 
-This course is designed to introduce graduate students to the foundations of database systems, focusing on basics such as the relational algebra and data model, query optimization, query processing, and transactions. This is not a course on database design or SQL programming (though we will discuss these issues briefly). It is designed for students who have taken [6.033](/courses/6-033-computer-system-engineering-spring-2009) (or equivalent); no prior database experience is assumed, though students who have taken an undergraduate course in databases are encouraged to attend.
+This course is designed to introduce graduate students to the foundations of database systems, focusing on basics such as the relational algebra and data model, query optimization, query processing, and transactions. This is not a course on database design or SQL programming (though we will discuss these issues briefly). It is designed for students who have taken [6.033](/courses/6-033-computer-system-engineering-spring-2018/) (or equivalent); no prior database experience is assumed, though students who have taken an undergraduate course in databases are encouraged to attend.
 
 Classes will consist of lectures and discussions based on readings from the database literature. For 6.830, there will be a semester-long project, as well as two exams and 7 additional assignments — 3 Java-based programming "labs" and 4 problem sets. For 6.814, exams and assignments are the same as 6.830, but instead of the semester project, there will be 2 additional labs.
 
